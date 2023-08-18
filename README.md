@@ -28,10 +28,3 @@ Estagiário em Análise de dados - Compliance Analytics, Em São Paulo-SP, Brasi
 ![Linux](https://img.shields.io/badge/Linux-fff?style=for-the-badge&logo=linux&logoColor=black)
 ![PowerShell](https://img.shields.io/badge/PowerShell-fff?style=for-the-badge&logo=powershell&logoColor=5391FE)
 
-
-
-<<<<<<< HEAD
-## GitHub Stats
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-=======
->>>>>>> 9a8634aa09cbce2d5e75fc59a3b12df1ce4d9695
