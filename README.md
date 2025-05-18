@@ -1,14 +1,12 @@
 
 # 🤙 Douglas Nascimento 
-Estagiário em Análise de dados, Em São Paulo-SP, Brasil - 🙌 -  de Análise e Desenvolvimento de Sistemas na Universidade Municipal de São Caetano do Sul - USCS. Meu primeiro "Hello World" foi durante um dos cursos que abandonei durante a procura por uma área que eu me identificasse, nesse curso tive contato com lógica de programação e daí despertou a curiosidade e vontade por adquirir mais conhecimento na área de TI.
+Analista de dados, Em São Paulo-SP, Brasil - 🙌 - Meu primeiro "Hello World" foi durante um dos cursos que abandonei durante a procura por uma área que eu me identificasse, nesse curso tive contato com lógica de programação e daí despertou a curiosidade e vontade por adquirir mais conhecimento na área de TI, tive a oportunidade de estagiar em 2 grandes bancos na área de dados, e acabei me identificando com a àrea. Hoje procuro expandir meus conhecimentos na área, conhecer mais ferramentas e amadurecer o raciocínio analítico para poder contribuir cada vez mais e sentir que agrego valor com uma atividade que me identifico. 
 
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-fff?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/dgsousa1992/)
 [![Instagram](https://img.shields.io/badge/Instagram-fff?style=for-the-badge&logo=instagram)](https://www.instagram.com/nascidoug/)
 [![Gmail](https://img.shields.io/badge/Gmail-fff?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:dgsousa@gmail.com)
-
-
 
 
 ## Habilidades
